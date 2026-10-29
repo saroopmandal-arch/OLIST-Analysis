@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 OLIST-FORENSIC
+# 🔍 OLIST-Analysis
 ### Empirical E-Commerce Performance & Churn Diagnostic: Systemic Operational, CRM & Logistics Audit
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -132,7 +132,7 @@ Brazilian e-commerce operates on distinct payment dynamics:
 ## 📂 Project Directory Structure
 
 ```
-OLIST-FORENSIC/
+OLIST-Analysis/
 ├── README.md                                  # Executive summary, methodology & visual findings
 ├── OLIST_Forensic_Investigation.ipynb         # Fully executed Jupyter Notebook with outputs
 ├── run_olist_forensic.py                      # Master SQLite ingestion & SQL audit script
@@ -164,8 +164,8 @@ To reproduce this entire analysis locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/saroopmandal-arch/OLIST-FORENSIC.git
-   cd OLIST-FORENSIC
+   git clone https://github.com/saroopmandal-arch/OLIST-Analysis.git
+   cd OLIST-Analysis
    ```
 
 2. **Install dependencies:**
@@ -201,3 +201,4 @@ To reproduce this entire analysis locally:
 <div align="center">
   <sub>Built with empirical rigor. Powered by SQLite, Python, and Open-Source Telemetry.</sub>
 </div>
+
