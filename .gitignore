@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets (>100MB GitHub limit)
+dataset/
+*.csv.zip
+
+# SQLite Database (>100MB GitHub limit)
+*.db
+olist_forensic.db
+
+# Jupyter Checkpoints & Virtualenvs
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+ENV/
+
+# OS Specific
+Thumbs.db
+.DS_Store

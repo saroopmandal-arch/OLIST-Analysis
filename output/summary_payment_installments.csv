@@ -1,0 +1,6 @@
+payment_type,total_payments,avg_installments,total_gross_value_brl,avg_ticket_brl,delivered_orders,unfulfilled_orders,unfulfilled_pct
+credit_card,76795,3.5,12542084.19,163.32,74586,890,1.16
+boleto,19784,1.0,2869361.27,145.03,19191,245,1.24
+voucher,5775,1.0,379436.87,65.7,5493,162,2.81
+debit_card,1529,1.0,217989.79,142.57,1486,13,0.85
+not_defined,3,1.0,0.0,0.0,0,3,100.0
